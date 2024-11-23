@@ -1,0 +1,10 @@
+C:\Users\burak\source\repos\KisiKaydetmeVeGoruntuleme\KisiKaydetmeVeGoruntuleme\bin\Debug\KisiKaydetmeVeGoruntuleme.exe.config
+C:\Users\burak\source\repos\KisiKaydetmeVeGoruntuleme\KisiKaydetmeVeGoruntuleme\bin\Debug\KisiKaydetmeVeGoruntuleme.exe
+C:\Users\burak\source\repos\KisiKaydetmeVeGoruntuleme\KisiKaydetmeVeGoruntuleme\bin\Debug\KisiKaydetmeVeGoruntuleme.pdb
+C:\Users\burak\source\repos\KisiKaydetmeVeGoruntuleme\KisiKaydetmeVeGoruntuleme\obj\Debug\KisiKaydetmeVeGoruntuleme.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\KisiKaydetmeVeGoruntuleme\KisiKaydetmeVeGoruntuleme\obj\Debug\KisiKaydetmeVeGoruntuleme.Properties.Resources.resources
+C:\Users\burak\source\repos\KisiKaydetmeVeGoruntuleme\KisiKaydetmeVeGoruntuleme\obj\Debug\KisiKaydetmeVeGoruntuleme.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\KisiKaydetmeVeGoruntuleme\KisiKaydetmeVeGoruntuleme\obj\Debug\KisiKaydetmeVeGoruntuleme.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\KisiKaydetmeVeGoruntuleme\KisiKaydetmeVeGoruntuleme\obj\Debug\KisiKaydetmeVeGoruntuleme.exe
+C:\Users\burak\source\repos\KisiKaydetmeVeGoruntuleme\KisiKaydetmeVeGoruntuleme\obj\Debug\KisiKaydetmeVeGoruntuleme.pdb
+C:\Users\burak\source\repos\KisiKaydetmeVeGoruntuleme\KisiKaydetmeVeGoruntuleme\obj\Debug\KisiKaydetmeVeGoruntuleme.KisiKaydetmeVeGoruntuleme.resources
